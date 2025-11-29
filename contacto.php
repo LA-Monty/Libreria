@@ -19,7 +19,7 @@
 
         <ul class="nav nav-pills flex-column mb-auto">
             <li class="nav-item">
-                <a href="main.php" class="nav-link text-white"><i class="fa-solid fa-book"></i> Libreria</a>
+                <a href="index.php" class="nav-link text-white"><i class="fa-solid fa-book"></i> Libreria</a>
             </li>
             <li>
                 <a href="autores.php" class="nav-link text-white"><i class="fa-solid fa-user"></i> Autores</a>
