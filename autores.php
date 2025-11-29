@@ -37,7 +37,6 @@
 
     <main class="container" style="margin-left: 260px;">
         <h1 class="mt-4">Lista de Autores</h1>
-        <p>Aquí va el contenido de tu página.</p>
 
                 <div class="col-11 p-4">
             <table class="table">

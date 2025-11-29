@@ -37,16 +37,11 @@
 
     <main class="container" style="margin-left: 260px;">
         <h1 class="mt-4">Contacto</h1>
-        <p>Aquí va el contenido de tu página.</p>
 
         <div class="col-11 p-4">
                  <!--Formulario de registro de solicitudes-->
             <form class="" p-3 method="POST">
 
-                <?php
-                include "modelo/conexion.php";
-                include "controlador/registro_solicitud.php";
-                ?>
                 <div class="mb-3">
                     <label for="exampleInputEmail1" class="form-label">Nombre</label>
                     <input type="text" class="form-control" name="nombre">
