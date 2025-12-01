@@ -41,7 +41,10 @@
         <div class="col-11 p-4">
                  <!--Formulario de registro de solicitudes-->
             <form class="" p-3 method="POST">
-
+            <?php
+            include "modelo/conexion.php";
+            include "controlador/registro_solicitud.php";
+            ?>
                 <div class="mb-3">
                     <label for="exampleInputEmail1" class="form-label">Nombre</label>
                     <input type="text" class="form-control" name="nombre">

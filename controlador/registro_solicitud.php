@@ -19,7 +19,9 @@
             } 
         
     }else {
-            echo '<div class="alert alert-warning">Alguno de los campos esta vacio</div>';
+            echo '<div class="alert alert-warning">alguno de los campos esta vacio</div>';
         }
      }
 ?>
+
+<!--Cambios necesarios para no joder el repositorio-->
